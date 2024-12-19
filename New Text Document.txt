@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Walton</title>
+<link rel = "stylesheet" type = "text/css" href = "a.css">
+</head>
+<background img="rich.jpg">
+<br>
+
+<p><a href="walton.html"><img width="300" height="150" 
+src="walton.jpeg.jpeg"></a><b><br><a name='walton'>Walton Family</a></b></p>
